@@ -1,5 +1,7 @@
-# Web-scrappeer
-A simple Web scrapper
+# Web-scrapper
+# A simple Web scrapper
+
+
 #import libary for web scrapping
 from bs4 import BeautifulSoup as Soup
 import re
